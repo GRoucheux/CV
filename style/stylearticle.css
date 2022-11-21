@@ -4,4 +4,24 @@
     flex-direction: column;
     background-color: aquamarine;
     width: 50%;
+
+
+}
+
+.cellule
+{
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+    width: 20%;
+}
+
+.celluleTitle
+{
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+    background-color: springgreen;
+
 }
